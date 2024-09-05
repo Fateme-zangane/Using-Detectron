@@ -1,6 +1,6 @@
 # Detectron2 Image Object Detection
 
-This project demonstrates how to use the Detectron2 library(Facebook AI research ) for object detection on a single image using a pre-trained Faster R-CNN model. The image is processed to detect objects, and the result is visualized with bounding boxes.
+This project demonstrates how to use the [Detectron2](https://github.com/facebookresearch/detectron2) library for object detection on a single image using a pre-trained Faster R-CNN model. The image is processed to detect objects, and the result is visualized with bounding boxes.
 
 ## Requirements
 
